@@ -36,14 +36,9 @@ Comparison of Models: The best-performing model is selected based on performance
 
 📊 Results
 
-Model	Training Accuracy	Validation Accuracy
-CNN	86%	55%
-VGG16	63%	37%
-DenseNet121	90%	32%
-ResNet50	85%	45%
-EfficientNetB3	74%	26%
-InceptionV3	87%	63%
-![image](https://github.com/user-attachments/assets/b4ccaf3a-a30a-4e5b-8799-711686f8e42c)
+
+![image](https://github.com/user-attachments/assets/b8de4625-5f64-49dc-9232-fb5cea21258e)
+
 
 
 The best model achieves 63% validation accuracy, making it a reliable classifier for lung diseases.
