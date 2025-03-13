@@ -1,10 +1,10 @@
 # Lung Disease Classification using CNN Models
 
-📌# Project Overview
+# 📌 Project Overview
 
 This project classifies lung diseases from chest X-ray images using deep learning models. Multiple Convolutional Neural Network (CNN) architectures, including VGG16, ResNet50, DenseNet121, InceptionV3, Xception, and EfficientNetB3, have been used to achieve high classification accuracy.
 
-📂 Dataset
+# 📂 Dataset
 
 The dataset consists of X-ray images categorized into four classes:
 
@@ -16,7 +16,7 @@ Pneumonia
 
 Tuberculosis
 
-Dataset Structure:
+# Dataset Structure:
 
 /data
  
@@ -24,7 +24,7 @@ Dataset Structure:
    ├── val/         # Validation images (38 images)
    ├── test/        # Test images (771 images)
 
-⚙️ Implementation Steps
+# ⚙️ Implementation Steps
 
 Data Preprocessing: Image augmentation techniques (rotation, zoom, flips) are applied to improve model generalization.
 
@@ -34,7 +34,7 @@ Evaluation Metrics: Models are evaluated using accuracy, loss, and confusion mat
 
 Comparison of Models: The best-performing model is selected based on performance metrics.
 
-📊 Results
+# 📊 Results
 
 
 ![image](https://github.com/user-attachments/assets/b8de4625-5f64-49dc-9232-fb5cea21258e)
@@ -45,9 +45,10 @@ The best model achieves 63% validation accuracy, making it a reliable classifier
 
 Model Comparison Visualization
 
+![model_comparision](https://github.com/user-attachments/assets/c1db0014-1542-4b3c-a936-65581a4ead6a)
 
 
-📌 Future Improvements
+# 📌 Future Improvements
 
 Fine-tuning hyperparameters for better accuracy.
 
@@ -58,7 +59,7 @@ Implementing attention mechanisms to enhance model focus on critical areas.
 
 
 
-⭐ Acknowledgments
+# ⭐ Acknowledgments
 
 Dataset sourced from Kaggle
 
